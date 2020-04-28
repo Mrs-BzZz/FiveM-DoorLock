@@ -1,5 +1,5 @@
 ## Frakce
-Zámky pro frakci **mechanic**.
+Zámky pro frakci **mechanic**. Po zamknutí se mohou garážové dveře odsazovat se svých původních souřadnic, jakmile odejdete pár metrů dál, dveře se vrátí zpět ;)
 
 ## Interiér
 MLO - [video](https://youtu.be/Qvb7ZS03vCw)
