@@ -2,7 +2,7 @@
 	-- vstupni
 	{
 		textCoords = vector3(1395.95, 1141.86, 115.0),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -26,7 +26,7 @@
 		objYaw = -90.0,
 		objCoords  = vector3(1397.9570, 1157.5695, 114.4835),
 		textCoords = vector3(1397.95, 1156.88, 114.8),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -37,7 +37,7 @@
 		objYaw = 90.0,
 		objCoords  = vector3(1400.9962, 1158.9506, 114.4835),
 		textCoords = vector3(1400.99, 1159.65, 114.8),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -48,7 +48,7 @@
 		objYaw = -90.0,
 		objCoords  = vector3(1397.0624, 1164.7397, 114.4835),
 		textCoords = vector3(1396.95, 1164.05, 114.8),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -59,7 +59,7 @@
 		objYaw = 180.0,
 		objCoords  = vector3(1403.4775, 1157.9828, 114.4828),
 		textCoords = vector3(1402.8, 1158.03, 114.8),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -67,7 +67,7 @@
 	-- veranda
 	{
 		textCoords = vector3(1390.62, 1132.19, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -87,7 +87,7 @@
 	},
 	{
 		textCoords = vector3(1400.51, 1128.29, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -107,7 +107,7 @@
 	},
 	{
 		textCoords = vector3(1408.15, 1160.06, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -127,7 +127,7 @@
 	},
 	{
 		textCoords = vector3(1408.18, 1164.73, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -147,7 +147,7 @@
 	},
 	{
 		textCoords = vector3(1390.47, 1162.35, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
@@ -171,7 +171,7 @@
 		objYaw = 180.0,
 		objCoords  = vector3(1407.5465, 1128.3287, 114.4855),
 		textCoords = vector3(1407.04, 1128.37, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -181,7 +181,7 @@
 		objYaw = 0.0,
 		objCoords  = vector3(1397.7185, 1132.4718, 109.8933),
 		textCoords = vector3(1398.46, 1132.43, 110.2),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 1.2,
 		size = 0.7
@@ -191,7 +191,7 @@
 		objYaw = 90.0,
 		objCoords  = vector3(1396.6885, 1133.3308, 109.8933),
 		textCoords = vector3(1396.68, 1133.96, 110.2),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 1.2,
 		size = 0.7
@@ -201,7 +201,7 @@
 		objYaw = 90.0,
 		objCoords  = vector3(1400.0455, 1136.1288, 109.8933),
 		textCoords = vector3(1400.04, 1136.87, 110.2),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.0,
 		size = 0.7
@@ -211,7 +211,7 @@
 		objYaw = 180.0,
 		objCoords  = vector3(1399.0165, 1143.1438, 109.8933),
 		textCoords = vector3(1398.32, 1143.05, 110.2),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.7
@@ -219,7 +219,7 @@
 	-- vratka venku
 		{
 		textCoords = vector3(1428.67, 1141.85, 114.7),
-		authorizedJobs = { 'police' },
+		authorizedJobs = { 'mafia' },
 		locked = true,
 		distance = 2.5,
 		size = 0.6,
