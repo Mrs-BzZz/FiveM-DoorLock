@@ -1,0 +1,90 @@
+-- Nemocnice Pillbox
+	-- WARD A
+	{
+		textCoords = vector3(303.97, -581.93, 43.7),
+		authorizedJobs = { 'ambulance' },
+		locked = true,
+		distance = 2.5,
+		size = 0.6,
+		doors = {
+			{
+				objName = 'gabz_pillbox_doubledoor_l',
+				objYaw = -20.0,
+				objCoords = vector3(302.8031, -581.4246, 43.4339)
+			},
+
+			{
+				objName = 'gabz_pillbox_doubledoor_r',
+				objYaw = -20.0,
+				objCoords = vector3(305.2219, -582.3056, 43.4339)
+			}
+		}
+	},
+
+	-- WARD B
+	{
+		textCoords = vector3(325.37, -589.87, 43.8),
+		authorizedJobs = { 'ambulance' },
+		locked = true,
+		distance = 2.5,
+		size = 0.6,
+		doors = {
+			{
+				objName = 'gabz_pillbox_doubledoor_l',
+				objYaw = -20.0,
+				objCoords = vector3(324.2360, -589.2262, 43.4339)
+			},
+
+			{
+				objName = 'gabz_pillbox_doubledoor_r',
+				objYaw = -20.0,
+				objCoords = vector3(326.6550, -590.1066, 43.4339)
+			}
+		}
+	},
+	
+	-- WARD D
+	{
+		textCoords = vector3(327.48, -593.93, 43.9),
+		authorizedJobs = { 'ambulance' },
+		locked = true,
+		distance = 2.5,
+		size = 0.6,
+		doors = {
+			{
+				objName = 'gabz_pillbox_doubledoor_l',
+				objYaw = -110.0,
+				objCoords = vector3(328.1364, -592.7761, 43.4339)
+			},
+
+			{
+				objName = 'gabz_pillbox_doubledoor_r',
+				objYaw = -110.0,
+				objCoords = vector3(327.2560, -595.1950, 43.4339)
+			}
+		}
+	},
+	
+	-- Recepce
+	{
+		objName = 'gabz_pillbox_singledoor',
+		objYaw = -110.0,
+		objCoords  = vector3(313.4801, -595.4583, 43.4339),
+		textCoords = vector3(313.31, -596.09, 43.7),
+		authorizedJobs = { 'ambulance' },
+		locked = true,
+		distance = 2.5,
+		size = 0.7
+	},
+	
+	-- Staff only
+	{
+		objName = 'gabz_pillbox_singledoor',
+		objYaw = 160.0,
+		objCoords  = vector3(309.1337, -597.7515, 43.4339),
+		textCoords = vector3(308.52, -597.47, 43.7),
+		authorizedJobs = { 'ambulance' },
+		locked = true,
+		distance = 2.5,
+		size = 0.7
+	},
